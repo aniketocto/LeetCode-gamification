@@ -1,2 +1,7 @@
 agy.exe
-agy.exe.1783079218187460500.old
+agy.exe.*.old
+node_modules/
+.env
+dist/
+.DS_Store
+*.log
