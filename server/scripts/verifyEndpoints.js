@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'; // if not native, but let's use global fetch (Node 18+)
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://leet-code-gamification.vercel.app/api';
 
 async function runEndpointTests() {
   console.log('=== API ENDPOINTS INTEGRATION TESTING ===\n');
